@@ -8,7 +8,7 @@ It's part of my thesis work on CookieAudit.
 ## Key Features
 
 - Uses Transformers.js for in-browser inference
-- Tests the `snastal/purpose_detection_model` for text classification
+- Tests a BERT model for text classification
 - Processes 1187 sentences from real cookie notices
 - Includes a warm-up phase for more accurate timing
 - Runs in a Chrome extension background script
